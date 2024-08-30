@@ -1,5 +1,5 @@
 
-#Parkinson's disease Detection
+# Parkinson's disease Detection
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vigmallya/EDA_Disease_Prediction/HEAD?labpath=Parkinsons_Disease_Detection.ipynb)
 
