@@ -1,3 +1,8 @@
+
+#Parkinson's disease Detection
+
+[!(binder](https://wybinder.org/badge_logo.svg)](https://aybinder.org/v2/gh/vigmallya/Parkinsons_Disease_Detection/master)
+
 Parkinson's disease is a long-term, progressive neurological disorder that primarily affects movement, leading to symptoms like tremors, muscle stiffness, slowness of movement, and difficulties with balance and coordination. As the disease progresses, these symptoms can worsen, significantly impacting a person's daily life and independence. Detecting Parkinson's early is crucial, as it allows for timely intervention and management strategies that can help slow the progression of symptoms and improve the quality of life for those affected. To aid in early detection, researchers often analyze various data points, particularly those related to voice characteristics, which can be early indicators of the disease. 
 
 The dataset used for detecting Parkinson's includes measurements of vocal features such as fundamental frequency (`MDVP:Fo(Hz)`, `MDVP:Fhi(Hz)`, `MDVP:Flo(Hz)`), variations in pitch (`Jitter` metrics), variations in amplitude (`Shimmer` metrics), and other attributes like the harmonic-to-noise ratio (`HNR`) and signal fractal scaling measures (`RPDE`, `DFA`). These features are derived from voice recordings of 195 individuals and are analyzed to identify patterns that distinguish between those with Parkinson's (`status` = 1) and those without it (`status` = 0). By studying these subtle changes in voice, researchers can develop more accurate and earlier diagnostic tools, which are crucial for managing the disease and helping patients maintain their independence and well-being for as long as possible.
