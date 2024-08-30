@@ -1,7 +1,8 @@
 
 # Parkinson's disease Detection
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vigmallya/EDA_Disease_Prediction/HEAD?labpath=Parkinsons_Disease_Detection.ipynb)
+[![Jupyter](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vigmallya/EDA_Disease_Prediction/HEAD?labpath=Parkinsons_Disease_Detection.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vigmallya/EDA_Disease_Prediction/main?labpath=Parkinsons_Disease_Detection.ipynb)
 
 
 Parkinson's disease is a long-term, progressive neurological disorder that primarily affects movement, leading to symptoms like tremors, muscle stiffness, slowness of movement, and difficulties with balance and coordination. As the disease progresses, these symptoms can worsen, significantly impacting a person's daily life and independence. Detecting Parkinson's early is crucial, as it allows for timely intervention and management strategies that can help slow the progression of symptoms and improve the quality of life for those affected. To aid in early detection, researchers often analyze various data points, particularly those related to voice characteristics, which can be early indicators of the disease. 
